@@ -1,0 +1,2 @@
+/usr/bin/ar cr libnonlinearfit.a  CMakeFiles/nonlinearfit.dir/./nonlinearfit_generated_nonlinearfit.cu.o
+/usr/bin/ranlib libnonlinearfit.a
